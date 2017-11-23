@@ -1,3 +1,3 @@
 ## quiz
 
-this quizzes you on your multiplication
+This tests you on your math skills :)
